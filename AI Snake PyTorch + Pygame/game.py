@@ -8,7 +8,6 @@ pygame.init()
 font = pygame.font.Font("arial.ttf", 25)
 # font = pygame.font.SysFont('arial', 25)
 
-## TODO ##
 # * 1) reset
 # * 2) reward
 # * 3) play(action) -> direction
