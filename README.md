@@ -1,1 +1,1 @@
-# ArtificialIntelligince projects and learning
+# Artificial Intelligence projects and learning
